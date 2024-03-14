@@ -4,7 +4,7 @@
 
 
 // let count = 0;
-count = 1; 
+count = 1;
 console.log(count);
 
 // const PI = 3.14;
@@ -25,16 +25,16 @@ console.log(count);
 // Exp: 
 
 // let x = 5;
-Number 
+Number
 console.log(typeof x);
 
-BigInt 
+BigInt
 const BigInt = 123456789123456789n;
 console.log(typeof BigInt);
 
 
-string 
-let  name = 'Eng_Zabi';
+string
+let name = 'Eng_Zabi';
 console.log(name)
 
 // Boolean 
@@ -117,5 +117,8 @@ console.log(a >= b)  //True
 
 console.log(a < b);  //False
 console.log(a <= b); //False
+
+
+
 
 
